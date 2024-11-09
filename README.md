@@ -1,6 +1,6 @@
 ## Welcome! 🧑‍💻
 
-I am a 🇨🇦 software developer based in Montreal⚜️.
+I am a 🇨🇦 software developer based in Montreal ⚜️.
 
 - 📰 I write about my adventures in SIMD optimization on my [website](https://nick-nuon.github.io/).
 - 🚀 I helped add Latin1 support to **Simdutf**, achieving up to **38× speedup** over the popular ICU library. My code is now **used by Node.js**.
