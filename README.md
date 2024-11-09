@@ -1,8 +1,6 @@
 ## Welcome! 🧑‍💻
 
 I am a 🇨🇦 software developer based in Montreal ⚜️.
-I have a Bachelor of Science in Computer Science from Université TÉLUQ and a Bachelor of Arts in Mathematics from Concordia University. I served as a radio operator in the military.I play classical piano.
-
 
 - 📰 I write about my adventures in programming and SIMD optimization on my [website](https://nick-nuon.github.io/).
 - 🚀 I helped add Latin1 support to **Simdutf**, achieving up to **38× speedup** over the popular ICU library. My code is now **used by Node.js**.
